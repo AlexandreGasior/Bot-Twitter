@@ -1,7 +1,7 @@
 ![Peepoodo & the super fuck friends](https://i0.wp.com/pixeladventurers.com/wp-content/uploads/2018/07/tumblr_p079tc6abb1ud8n12o1_1280_u18chan.gif?fit=949%2C532&ssl=1)
 
 ## I GO BOT (-LANE !?)
-C'est qu'il a le sens de l'humour ce con :O  
+C'est qu'il a le sens de l'humour ce con .. 
 ![](https://media.giphy.com/media/AQsH7WOkMJ85i/giphy.gif)  
 Bienvenue à toi sur ce repository. Tu peux y récupérer mon bot Twitter (façon MVC) doté de quelques fonctions basiques.
 
