@@ -1,8 +1,8 @@
 ![Peepoodo & the super fuck friends](https://i0.wp.com/pixeladventurers.com/wp-content/uploads/2018/07/tumblr_p079tc6abb1ud8n12o1_1280_u18chan.gif?fit=949%2C532&ssl=1)
 
 ## I GO BOT (-LANE !?)
-![](https://media.giphy.com/media/AQsH7WOkMJ85i/giphy.gif)
-C'est qu'il a le sens de l'humour ce con :O
+C'est qu'il a le sens de l'humour ce con :O  
+![](https://media.giphy.com/media/AQsH7WOkMJ85i/giphy.gif)  
 Bienvenue à toi sur ce repository. Tu peux y récupérer mon bot Twitter (façon MVC) doté de quelques fonctions basiques.
 
 ## FONCTIONNALITES
@@ -17,12 +17,12 @@ Bienvenue à toi sur ce repository. Tu peux y récupérer mon bot Twitter (faço
 Afin de pouvoir lancer le bot il va te falloir faire quelques modifications préalables.
 - Récupérer tes clés API de ton compte [twitter développeur](https://developer.twitter.com/)
 - Enregistrer ces clés dans un fichier .env à la racine de ton dossier et l'ajouter dans un fichier .gitignore (si tu ne suis pas attentivement ce point tout le monde pourra avoir accés à ton API !!)
-- Ton fichier .env devra donc contenir :
-TWITTER_CONSUMER_KEY
-TWITTER_CONSUMER_SECRET
-TWITTER_ACCESS_TOKEN
-TWITTER_ACCESS_TOKEN_SECRET
-et éventuellement pour l'option "2" du programme :
+- Ton fichier .env devra donc contenir :  
+TWITTER_CONSUMER_KEY  
+TWITTER_CONSUMER_SECRET  
+TWITTER_ACCESS_TOKEN  
+TWITTER_ACCESS_TOKEN_SECRET  
+et éventuellement pour l'option "2" du programme :  
 POTOS ( la valeur à lui attribuer devra être au format POTOS = "Poto_1 Poto_2 Poto_3 ..." Après, si tu n'as pas d'amis je ne peux pas faire grand chose de plus pour toi )
 
 ## NOTES
