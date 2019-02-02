@@ -14,6 +14,9 @@ Bienvenue à toi sur ce repository. Tu peux y récupérer mon bot Twitter (faço
 6. Quitter le programme
 
 ## PREREQUIS
+> "It's just basic chemistry, yo"  
+        Jesse Pinkman
+
 Afin de pouvoir lancer le bot il va te falloir faire quelques modifications préalables.
 - Récupérer tes clés API de ton compte [twitter développeur](https://developer.twitter.com/)
 - Enregistrer ces clés dans un fichier .env à la racine de ton dossier et l'ajouter dans un fichier .gitignore (si tu ne suis pas attentivement ce point tout le monde pourra avoir accés à ton API !!)
