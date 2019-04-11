@@ -24,7 +24,7 @@ TWITTER_CONSUMER_SECRET
 TWITTER_ACCESS_TOKEN  
 TWITTER_ACCESS_TOKEN_SECRET  
 et éventuellement pour l'option "2" du programme :  
-POTOS ( la valeur à lui attribuer devra être au format POTOS = "Poto_1 Poto_2 Poto_3 ..." Après, si tu n'as pas d'amis je ne peux pas faire grand chose de plus pour toi )
+POTOS ( la valeur à lui attribuer devra être au format POTOS = "Poto_1 Poto_2 Poto_3 ..." )
 
 ## NOTES
 N'oublie pas de bien mettre tes clés API et autres données confidentielles dans ton fichier ".env" lui-même mentionné dans le ".gitignore" (pas besoin de te rappeler pourquoi..).
