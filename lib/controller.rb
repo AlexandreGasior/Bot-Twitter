@@ -13,7 +13,9 @@ class Controller
   def initialize
     @login_rest = Connect.new.login_rest
     @login_stream = Connect.new.login_stream
-    @potos = ENV["POTOS"].split
+    if ENV["POTOS"] != nil
+      @potos = ENV["POTOS"].split
+    end
   end
 
   # METHODS REST
