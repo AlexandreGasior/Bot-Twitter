@@ -24,8 +24,12 @@ class Controller
   end
 
   def tweet_les_potos # Envoyer un tweet à tous les amis
-    potos = @potos
-    MethodsRest.new.tweet_les_potos(@login_rest, MethodsBoth.new.tweet, potos)
+    if @potos != nil
+      MethodsRest.new.tweet_les_potos(@login_rest, MethodsBoth.new.tweet, @potos)
+    else
+      puts "Ajoute tes amis dans ton .env pour pouvoir utiliser cette fonctionnalité"
+      sleep(3)
+    end
   end
 
   def add_tweet_to_favorites  # Ajouter aux favoris des tweets
