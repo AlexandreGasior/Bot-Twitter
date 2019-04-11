@@ -1,8 +1,6 @@
-![Peepoodo & the super fuck friends](https://i0.wp.com/pixeladventurers.com/wp-content/uploads/2018/07/tumblr_p079tc6abb1ud8n12o1_1280_u18chan.gif?fit=949%2C532&ssl=1)
 
-## I GO BOT (-LANE !?)
-C'est qu'il a le sens de l'humour ce con ..   
-![](https://media.giphy.com/media/AQsH7WOkMJ85i/giphy.gif)  
+
+## BOT TWITTER
 Bienvenue à toi sur ce repository. Tu peux y récupérer mon bot Twitter (façon MVC) doté de quelques fonctions basiques.
 
 ## FONCTIONNALITES
@@ -30,9 +28,6 @@ POTOS ( la valeur à lui attribuer devra être au format POTOS = "Poto_1 Poto_2 
 
 ## NOTES
 N'oublie pas de bien mettre tes clés API et autres données confidentielles dans ton fichier ".env" lui-même mentionné dans le ".gitignore" (pas besoin de te rappeler pourquoi..).
-Laisses-moi tout de même illustrer l'état émotionel dans lequel tu seras si tu oublies ce point très important !
-![Oh shit !](https://media.giphy.com/media/12XLHwphHmBuow/giphy.gif)
-Et si tu n'y connais rien à LoL (League of Legends), dis-toi juste que t'es mal barré.
 
 ### AUTEUR     ![Donatello](https://www.informatiquegifs.com/tortues/gifs10.gif)
- - Alexandre Gasior *(également membre de [The Super Fuck Friends](https://github.com/THPS07E01))*
+ - Alexandre Gasior
